@@ -23,7 +23,6 @@ Currently working with Data Analyst, but I love learn new thing in programming s
     - ⚡ Fun fact: Fish can fly when have relationship with bird :) </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
 </p>
 
