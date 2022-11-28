@@ -29,6 +29,6 @@ Currently working with Data Analyst, but I love learn new thing in programming s
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/sigitari-setiawan/" target="blank"><img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png)" /></a>
+    <a href="https://www.linkedin.com/in/sigitari-setiawan/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" /></a>
 </p>
 
