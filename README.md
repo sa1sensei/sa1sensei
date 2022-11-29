@@ -39,7 +39,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://img1.pngdownload.id/20180324/ddq/kisspng-android-logo-handheld-devices-android-5ab6e0f55d33e5.6357927315219345813818.jpg"></code>
+  <code><img height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png"></code>
   <code><img height="40" src=""></code>
    <code><img height="40" src=""></code>
    <code><img height="40" src=""></code>
