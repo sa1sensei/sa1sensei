@@ -7,7 +7,7 @@
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
   - 🔭 I’m currently working as a Data Analyst from Indonesia
-  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 🌱 I love learn new thing in programming such as Python, Java, R, Machine Learning and Big Data.
   - 💬 Ask me about [Youtube](https://www.youtube.com/@sa1-sensei/featured)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is sigit everybody call SASUKE but my nick name Sa1 Numba Waaaaaann 👻👻👻
@@ -19,7 +19,12 @@
   
   #### 📫 How to reach me:
   
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/sa1sensei)  &nbsp; 
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/3SaXr9XwMW)  &nbsp; 
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SigitAri_S)  &nbsp; 
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sigitari-setiawan/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://web.facebook.com/sa1senseii/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sa1_sensei/)  &nbsp; <a href="mailto:sigitarisetiawan1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -44,7 +49,7 @@
                  
             
 
-Currently working with Data Analyst, but I love learn new thing in programming such as Python, Java, R, Machine Learning. 
+Currently working with Data Analyst, but  
 
 ### Tools:
 <p>
