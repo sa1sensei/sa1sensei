@@ -6,8 +6,10 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-  - 🔭 I’m currently working as a Data Analyst from Indonesia
-  - 🌱 I love learn new thing in programming such as Python, Java, R, Machine Learning and Big Data.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+  - 🔭 I’m currently working as a Data Analyst from Indonesia.
+  - 💻 I use daily **.r**, **.java**, **.py**,  **.sql**
+  - 🌱 I love learn new thing in programming such as html, php, Machine Learning and Big Data.
   - 💬 Ask me about [Youtube](https://www.youtube.com/@sa1-sensei/featured)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is sigit everybody call SASUKE but my nick name Sa1 Numba Waaaaaann 👻👻👻
