@@ -1,4 +1,14 @@
 # Hi there 👋 , I'm Sigit Ari Setiawan call me sa1 sensei!
+
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
+<p align="center">
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&duration=1000&pause=1000&color=010022&background=39393900&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+My+name+is+Sigit+Ari+Setiawan+;Call+me+Sa1+Sensei;Welcome+My+Profile" alt="Typing SVG" /></a>
+</p>
+
 Currently working with Data Analyst, but I love learn new thing in programming such as Python, Java, R, Machine Learning. 
 
 ### Tools:
