@@ -1,25 +1,21 @@
-
-<p align="center">
-  <h3 align="center">⌨️ GITHUB </h3>
-</p>
-
 <p align="center">
                  <img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&size=38&duration=1000&pause=1000&color=010022&background=39393900&center=true&vCenter=true&multiline=true&width=600&height=170&lines=Hi%2C+My+name+is+Sigit+Ari+Setiawan+;Call+me+Sa1+Sensei;Welcome+My+Profile" alt="Typing SVG" />
-</p>
-
-<p align="center"> 
-  <img src="https://image.spreadshirtmedia.com/image-server/v1/mp/compositions/T210A1PA4301PT17X40Y32D1024980722W25031H30038/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/programming-code-funny-mens-t-shirt.jpg"/>
 </p>
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
+  - 🔭 I’m currently working as a Data Analyst from Indonesia
   - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 💬 Ask me about [Youtube](https://www.youtube.com/@sa1-sensei/featured)
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: My name is sigit everybody call SASUKE but my nick name Sa1 Numba Waaaaaann 👻👻👻
+
+
+<p align="center"> 
+  <img src="https://image.spreadshirtmedia.com/image-server/v1/mp/compositions/T210A1PA4301PT17X40Y32D1024980722W25031H30038/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/programming-code-funny-mens-t-shirt.jpg"/>
+</p>
   
   #### 📫 How to reach me:
   
