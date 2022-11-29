@@ -41,8 +41,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png"></code>
   <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
-   <code><img height="40" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"></code>
-
+  <code><img height="40" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"></code>
+  <code><img height="40" src=" https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png"></code>
+  <code><img height="40" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png"></code>
+  
   
   
   
