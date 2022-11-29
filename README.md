@@ -10,7 +10,7 @@
   - 🔭 I’m currently working as a Data Analyst from Indonesia.
   - 💻 I use daily **.r**, **.java**, **.py**,  **.sql**
   - 🌱 I love learn new thing in programming such as html, php, Machine Learning and Big Data.
-  - 💬 Ask me about [Youtube](https://www.youtube.com/@sa1-sensei/featured) **.DON'T FORGET SUBSCRIBE !! "**
+  - 💬 Ask me on [Youtube](https://www.youtube.com/@sa1-sensei/featured) **.DON'T FORGET SUBSCRIBE !! "**
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is sigit everybody call SASUKE but my nick name Sa1 Numba Waaaaaann 👻👻👻
 
