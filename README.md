@@ -40,9 +40,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png"></code>
-  <code><img height="40" src=""></code>
-   <code><img height="40" src=""></code>
-   <code><img height="40" src=""></code>
+  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
+   <code><img height="40" src="https://banner2.cleanpng.com/20180422/lke/kisspng-html-css-design-and-build-web-sites-responsive-technical-application-5adc4f49691d13.6389611915243876574306.jpg"></code>
+
   
   
   
