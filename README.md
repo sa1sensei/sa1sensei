@@ -9,7 +9,7 @@
   <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&duration=1000&pause=1000&color=010022&background=39393900&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+My+name+is+Sigit+Ari+Setiawan+;Call+me+Sa1+Sensei;Welcome+My+Profile" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&duration=1000&pause=1000&color=010022&background=39393900&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+My+name+is+Sigit+Ari+Setiawan+;Call+me+Sa1+Sensei;Welcome+My+Profile" alt="Typing SVG" /></a>
+<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Berkshire+Swash&duration=1000&pause=1000&color=010022&background=39393900&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+My+name+is+Sigit+Ari+Setiawan+;Call+me+Sa1+Sensei;Welcome+My+Profile" alt="Typing SVG" /></a>
 
 Currently working with Data Analyst, but I love learn new thing in programming such as Python, Java, R, Machine Learning. 
 
